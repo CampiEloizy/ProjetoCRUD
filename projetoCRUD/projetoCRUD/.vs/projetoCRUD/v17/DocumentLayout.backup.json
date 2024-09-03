@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|solutionrelative:models\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|solutionrelative:models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\dao\\despesadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|solutionrelative:dao\\despesadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|c:\\users\\eloizy campi\\onedrive\\ads\\poo\\projetocrud - eloizy\\projetocrud\\projetocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8203500D-7ED1-4E70-967F-4C0B050DE998}|projetoCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DespesaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\DAO\\DespesaDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\DespesaDAO.cs",
+              "ToolTip": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\DAO\\DespesaDAO.cs",
+              "RelativeToolTip": "DAO\\DespesaDAO.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:48:48.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Conexao.cs",
+              "RelativeDocumentMoniker": "Conexao.cs",
+              "ToolTip": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Conexao.cs",
+              "RelativeToolTip": "Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:46:42.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:40:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caixa.cs",
+              "DocumentMoniker": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Models\\Caixa.cs",
+              "RelativeDocumentMoniker": "Models\\Caixa.cs",
+              "ToolTip": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Models\\Caixa.cs",
+              "RelativeToolTip": "Models\\Caixa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:42:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Models\\Despesa.cs",
+              "RelativeDocumentMoniker": "Models\\Despesa.cs",
+              "ToolTip": "C:\\Users\\Eloizy Campi\\OneDrive\\ADS\\POO\\projetoCRUD - Eloizy\\projetoCRUD\\projetoCRUD\\Models\\Despesa.cs",
+              "RelativeToolTip": "Models\\Despesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:48:40.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
